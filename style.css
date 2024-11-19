@@ -1,0 +1,59 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 98%;
+    height: 90px;
+   
+}
+#p{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 45%;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#yummy{
+    font-weight: 900;
+    font-size: larger;
+    font-family: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: #37373f;
+}
+button{
+    width: 130px;
+    height: 35px;
+    border-radius: 40px;
+    border: none;
+    background-color: #d11417;
+    color: whitesmoke;
+    font-weight: 300;
+}
+#Starters h3{
+    font-size: 40px;
+    font-weight: 300;
+    font-family:  "Amatic SC", sans-serif;
+    color: #d11417;
+}
+#items-total{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#items h1{
+    color: #d11417;
+}
+#items p{
+    color: gray;
+}
+#items h3{
+    color: #37373f;
+}
